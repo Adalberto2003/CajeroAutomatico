@@ -4,6 +4,11 @@ public class Principal {
 
 	public static void main(String[] args) {
         Implementacion cajeroOperaciones = new Implementacion();
+        
+        
+        System.out.println("Hola Mundo");
+        System.out.println("Se feliz");
+        System.out.println("Copyrigth @2017");
         Scanner scanner = new Scanner(System.in);
         boolean salir = false;
         
